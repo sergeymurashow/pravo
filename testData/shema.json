@@ -1,0 +1,159 @@
+{
+    "Result": {
+        "CreationDate": "2020-02-14T14:46:18.400Z",
+        "ChangeDate": "2020-02-18T11:49:43.037Z",
+        "StartDate": null,
+        "Description": null,
+        "IsArchive": false,
+        "LastSyncDate": null,
+        "Permission": 16,
+        "Client": null,
+        "IsSubscribed": false,
+        "ObjectClass": {
+            "Id": "1371fc44-254f-ea11-90f0-0cc47afb2adf",
+            "Name": "Страховой полис",
+            "Section": "Страховой полис",
+            "Icon": "Billing",
+            "IsSystem": false,
+            "SysName": null
+        },
+        "Id": "1df38b0d-8baa-493a-b4a8-ab6100f36e71",
+        "Name": "тест",
+        "Number": "557*",
+        "ProjectType": {
+            "Id": "49d8f2dd-254f-ea11-90f0-0cc47afb2adf",
+            "Name": "Стадии",
+            "SysName": "Default",
+            "Tabs": [
+                {
+                    "Id": "4ad8f2dd-254f-ea11-90f0-0cc47afb2adf",
+                    "Name": "Основное",
+                    "IsSystem": true,
+                    "Type": {
+                        "SysName": "MainData",
+                        "Id": "90b160bb-adc9-e911-90ee-0cc47afb2adf",
+                        "Name": "Основные данные"
+                    }
+                },
+                {
+                    "Id": "4bd8f2dd-254f-ea11-90f0-0cc47afb2adf",
+                    "Name": "События",
+                    "IsSystem": true,
+                    "Type": {
+                        "SysName": "Feed",
+                        "Id": "91b160bb-adc9-e911-90ee-0cc47afb2adf",
+                        "Name": "События"
+                    }
+                },
+                {
+                    "Id": "4cd8f2dd-254f-ea11-90f0-0cc47afb2adf",
+                    "Name": "Участники",
+                    "IsSystem": true,
+                    "Type": {
+                        "SysName": "Participants",
+                        "Id": "92b160bb-adc9-e911-90ee-0cc47afb2adf",
+                        "Name": "Участники"
+                    }
+                },
+                {
+                    "Id": "4dd8f2dd-254f-ea11-90f0-0cc47afb2adf",
+                    "Name": "Задачи",
+                    "IsSystem": true,
+                    "Type": {
+                        "SysName": "Tasks",
+                        "Id": "93b160bb-adc9-e911-90ee-0cc47afb2adf",
+                        "Name": "Задачи"
+                    }
+                }, {
+                    "Id": "4ed8f2dd-254f-ea11-90f0-0cc47afb2adf",
+                    "Name": "Документы",
+                    "IsSystem": true,
+                    "Type": {
+                        "SysName": "Documents",
+                        "Id": "94b160bb-adc9-e911-90ee-0cc47afb2adf",
+                        "Name": "Документы"
+                    }
+                }, {
+                    "Id": "4fd8f2dd-254f-ea11-90f0-0cc47afb2adf",
+                    "Name": "Время",
+                    "IsSystem": true,
+                    "Type": {
+                        "SysName": "TimeSheet",
+                        "Id": "95b160bb-adc9-e911-90ee-0cc47afb2adf",
+                        "Name": "Время"
+                    }
+                }, {
+                    "Id": "50d8f2dd-254f-ea11-90f0-0cc47afb2adf",
+                    "Name": "Затраты",
+                    "IsSystem": true,
+                    "Type": {
+                        "SysName": "Expenses",
+                        "Id": "96b160bb-adc9-e911-90ee-0cc47afb2adf",
+                        "Name": "Затраты"
+                    }
+                }, {
+                    "Id": "51d8f2dd-254f-ea11-90f0-0cc47afb2adf",
+                    "Name": "Счета",
+                    "IsSystem": true,
+                    "Type": {
+                        "SysName": "Invoice",
+                        "Id": "97b160bb-adc9-e911-90ee-0cc47afb2adf",
+                        "Name": "Счета"
+                    }
+                }, {
+                    "Id": "52d8f2dd-254f-ea11-90f0-0cc47afb2adf",
+                    "Name": "Заметки",
+                    "IsSystem": true,
+                    "Type": {
+                        "SysName": "Notes",
+                        "Id": "98b160bb-adc9-e911-90ee-0cc47afb2adf",
+                        "Name": "Заметки"
+                    }
+                }, {
+                    "Id": "53d8f2dd-254f-ea11-90f0-0cc47afb2adf",
+                    "Name": "Мой арбитр",
+                    "IsSystem": true,
+                    "Type": {
+                        "SysName": "MyArbitr",
+                        "Id": "99b160bb-adc9-e911-90ee-0cc47afb2adf",
+                        "Name": "Мой Арбитр"
+                    }
+                }, {
+                    "Id": "54d8f2dd-254f-ea11-90f0-0cc47afb2adf",
+                    "Name": "Настройки",
+                    "IsSystem": true,
+                    "Type": {
+                        "SysName": "Settings",
+                        "Id": "9ab160bb-adc9-e911-90ee-0cc47afb2adf",
+                        "Name": "Настройки"
+                    }
+                }
+            ]
+        },
+        "Parent": null,
+        "ProjectGroup": null,
+        "ProjectFolder": null,
+        "IsCreatedAutomatically": false,
+        "CasebookNumber": null,
+        "DocumentFolderId": "3777b1c1-384f-ea11-90f0-0cc47afb2adf",
+        "DocumentFolderName": "тест",
+        "Responsible": {
+            "Id": "1ffd6bff-0f4f-ea11-90f0-0cc47afb2adf",
+            "Name": "Мурашов Сергей"
+        },
+        "Stage": {
+            "Id": "56d8f2dd-254f-ea11-90f0-0cc47afb2adf",
+            "Name": "Изготовлен"
+        }
+    },
+    "Error": "",
+    "ErrorHeader": null,
+    "ErrorType": null,
+    "Warning": null,
+    "WarningHeader": null,
+    "WarningType": null,
+    "IsSuccess": true,
+    "Errors": [],
+    "ValidationErrors": [],
+    "ValidationWarnings": []
+}
